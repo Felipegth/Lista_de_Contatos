@@ -10,7 +10,6 @@ Projeto modelo de estudo de aplicação de conceitos SOLID em .NET.
 
 ```shell
 mkdir ./src
-touch README.md
 git init
 dotnet new gitignore
 ```
