@@ -8,23 +8,23 @@ Projeto modelo de estudo de aplicação de conceitos SOLID em .NET.
 
 ## Create project
 
-'''shell
+```shell
 mkdir ./src
 touch README.md
 git init
 dotnet new gitignore
-'''
+```
 
-'''shell
+```shell
 cd src
 dotnet new console -o Lista_de_Contatos
-'''
+```
 
 ## Build
 
-'''shel
+```shel
 dotnet run --project src\Lista_de_Contatos\Lista_de_Contatos.csproj
-'''
+```
 ## References
 
 SOLID - https://pt.wikipedia.org/wiki/SOLID
