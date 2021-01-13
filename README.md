@@ -16,7 +16,6 @@ dotnet new gitignore
 ```
 
 ```shell
-cd src
 dotnet new console -o Lista_de_Contatos
 ```
 
