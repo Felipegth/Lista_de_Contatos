@@ -3,8 +3,8 @@ Projeto modelo de estudo de aplicação de conceitos SOLID em .NET.
 
 ## Prerequisites
 
-*.NET 5.0
-*Visual Studio Code
+* .NET 5.0
+* Visual Studio Code
 
 ## Create project
 
